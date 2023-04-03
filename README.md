@@ -1,4 +1,4 @@
-# Getting Started with MkDocs
+# MY Documentation using Github Pages
 
 An introductory tutorial!
 
